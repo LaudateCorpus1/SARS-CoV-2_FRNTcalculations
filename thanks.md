@@ -1,6 +1,6 @@
 # Thanks and Acknowledgements
 
-Starting this file way too late, but wanted to recognize contributions made by people who helped this repo. There are many more than this, but I should have started this file years ago.
+We would like to thank the entire SC2 Lab Task Force, our fellow members on SSEV, and our calaborators at SciComp.
 
-* Chris Sandlin [@cssandlin](https://github.com/cssandlin)
-* Drewry Morris [@drewry](https://github.com/drewry)
+Orginal script by Jiangwei Yoa, updated by Michael Currier
+
